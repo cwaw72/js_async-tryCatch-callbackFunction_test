@@ -1,5 +1,7 @@
-# callback 함수를 async 함수 처리 시 try catch 처리 테스트
+# js_async-tryCatch-callbackFunction_test
+callback 함수를 async 함수 처리 시 try catch 처리 테스트
 
+## 예시
 - [case 1 : promise 안에 try catch 작성]
 test function start
 case 1 try catch err { err: { errMsg: 'throw 에러 테스트' } }
