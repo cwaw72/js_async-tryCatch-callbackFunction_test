@@ -18,3 +18,4 @@ callback 함수를 async 함수 처리 시 try catch 처리 테스트
 **결론**
   - async function 자체를 try catch 한다면 callback 함수를 굳이 try catch로 잡을 필요 x
   - callback 함수 try catch 사용하지 않아도 괜찮아!
+  - 만약 callback 함수도 try catch 하고 싶다면 case 1 방법
